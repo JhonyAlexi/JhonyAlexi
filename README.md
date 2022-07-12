@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Bicycle App - Strap**
 
-- 🌱 I’m currently learning **Node and Express**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://jhonyalbayero.netlify.app/](https://jhonyalbayero.netlify.app/)
 
