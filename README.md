@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonyalexi&label=Profile%20views&color=0e75b6&style=flat" alt="jhonyalexi" /> </p>
 
-- 🔭 I’m currently working on a **Bicycle App - Strap**
 
 - 🌱 I’m currently learning **React**
 
